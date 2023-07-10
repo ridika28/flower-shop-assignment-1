@@ -198,3 +198,33 @@ font-weight: 400;
 line-height: 30px;
 padding-left: 395px;
 }
+
+.insta-text{
+    padding-top: 150px;
+    text-align: center;
+}
+.insta-heading{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+margin-bottom: 30px;
+}
+.insta-des{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-bottom: 30px;
+}
+.insta-img{
+    display: flex;
+    gap: 20px;
+   justify-content: center;
+   margin-left: 240px;
+   margin-right: 240px;
+ 
+
+}
