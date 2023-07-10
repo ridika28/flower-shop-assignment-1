@@ -73,22 +73,6 @@ bottom: 0px;
 
 }
 
-/* main section styles */
-.main-heading1{color: #272727;
-    text-align: center;
-    font-family: Lato;
-    font-size: 40px;
-    font-style: normal;
-    font-weight: 800;
-    line-height: normal;
-
-}
-
-
-
-
-
-
 .btn-primary{
 border-radius: 8px;
 background: #E55473;
@@ -101,4 +85,82 @@ font-size: 20px;
 font-weight: 700;
 border: none;
 
+}
+
+/* main section styles*/
+.section-text{
+    text-align: center;
+}
+.main-heading-1{
+    margin-bottom: 50px;
+    font-size: 40px;
+    padding-top: 100px;
+}
+.main-des-1{
+   
+    color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+margin-bottom: 50px;
+
+}
+
+
+.section-img{
+    height: 1000px;
+   background-position: center;
+    width: auto;
+    background: #FFF;
+    margin-left: 240px;
+    margin-right: 240px;
+  
+    display: flex;
+    gap: 20px;
+    justify-items: center;
+    position: relative;
+   right: -120px;
+  
+}
+.first-img{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+    width: 310px;
+height: 428px;
+flex-shrink: 0;
+padding: 110px 78px 0px 76px;
+
+}
+.sec-img{
+    border-radius: 300px 300px 0px 0px;
+  
+background: rgba(5, 151, 160, 0.15);
+  
+        width: 310px;
+    height: 428px;
+    flex-shrink: 0;
+    padding: 110px 78px 0px 76px;
+
+}
+.third-img{
+   
+border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+       
+   
+    padding: 67px 75px 0px 75px;
+   
+    width: 310px;
+    height: 470px;
+   
+
+flex-shrink: 0;
+
+}
+
+.img-text{
+    text-decoration: underline;
+    text-align: center;
+}
+#problem{
+    margin-top: 55px;
 }
