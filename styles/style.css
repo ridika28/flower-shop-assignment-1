@@ -197,11 +197,12 @@ flex-shrink: 0;
 height: 620px;
 flex-shrink: 0;
 border-radius: 8px;
-margin-top: 0px;
+margin-top: 200px;
 background: rgba(229, 84, 115, 0.05);
 
 align-items: center;
 gap: 200px;
+
 
 }
 .hot-deal-text{
@@ -297,6 +298,7 @@ padding-left: 30px;
 .deals-btn-form{
     display: flex;
     align-items: center;
+    gap: 20px;
    
 
 }
@@ -330,4 +332,74 @@ margin-top: 200px;
 text-align: center;
 font-size: 16px;
 font-weight: 400;
+}
+
+
+.satisfaction{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.text{
+   margin-left: 175px;
+    font-size: 40px;
+font-weight: 800;
+color:black
+
+}
+
+
+
+#h1-text{
+    margin-left: 450px;
+    font-size: 40px;
+   
+}
+#h2-text{
+    margin-left: 275px;
+}
+.own{
+    background-color: #d2ebeb;
+    width: 80%;
+    height: 800px;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: #272727;
+  
+}
+.icon{
+    height: 200px;
+    width: 250px;
+    margin-left: -50px;
+    
+   
+}
+
+.img{
+    display: flex;
+    border-radius:200px 200px 200px 200px;
+    padding: 35px;
+    gap: 10px;
+    
+   
+ 
+}
+.img1{
+    border-radius:500px 500px 500px 500px;
+    width: 700px;
+    height: 350px;
+
+}
+.img2{
+    border-radius:500px 500px 500px 500px;
+    width: 700px;
+    height: 350px;
+
+}
+.img3{
+    border-radius:500px 500px 500px 500px;
+    width: 700px;
+    height: 350px;
 }
