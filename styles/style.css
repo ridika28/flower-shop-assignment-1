@@ -304,3 +304,30 @@ padding-left: 30px;
     margin-top: -75px;
     margin-right: 287px;
 }
+
+/* footer styles */
+
+.footer{
+    background: #111010;
+    color: white;
+    width: 1922px;
+height: 449px;
+flex-shrink: 0;
+margin-top: 200px;
+}
+.footer-text{
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    /* margin: 127px 1200px 128px 630px; */
+    margin-top: 127px;
+    margin-left: -180px;
+  
+ 
+}
+.footer-copyright{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-size: 16px;
+font-weight: 400;
+}
